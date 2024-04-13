@@ -1,0 +1,35 @@
+@font-face {
+    font-family: WorkSans-Bold;
+    src: url(assets/fonts/static/WorkSans-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: WorkSans-Regular;
+    src: url(assets/fonts/static/WorkSans-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: WorkSans-SemiBold;
+    src: url(assets/fonts/static/WorkSans-SemiBold.ttf) format("truetype");
+}
+
+h1 {
+    font-family: WorkSans-Bold;
+}
+
+.question {
+    font-family: WorkSans-SemiBold;
+}
+
+.question p {
+    font-family: WorkSans-Regular;
+}
+
+.faqcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid black;
+    padding: 50px;
+    max-width: 450px;
+}
