@@ -39,8 +39,8 @@ h1 {
 }
 
 .question details summary img {
-    vertical-align: middle;
-    ;
+    align-items: center;
+    float: right;
 }
 
 .question p {
