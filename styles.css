@@ -58,7 +58,6 @@ h1 {
 
 .question details summary img {
     float: right;
-    outline: 2px solid black;
 }
 
 .question p {
