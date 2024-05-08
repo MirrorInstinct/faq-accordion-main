@@ -70,7 +70,7 @@ This really helped me to better understand how to center the FAQ box:
     min-height: 300px;
     box-shadow: 5px 5px 2cap #888888;
   }  
-
+```
 ### Continued development
 
 Although this project is considered "newbie," I really did struggle for a while with this one but it is well known that you can't grow or learn without pain.
